@@ -1,3 +1,5 @@
 # Personal-Projects
-This repository will be my personal one. It will include tiny projects I'll do in my spare time. These projects will be websites and one-page sites filled with creative things. Checking out this repository is like taking a look into my world(: 
-Projects will be done using HTML, CSS, JavaScript, & Python
+
+This repository will be filled with personal projects I do in my spare time. These projects will be done with HTML, CSS, JavaScript, & Python. 
+
+These projects are works in projects, but feel free to check them out. 
