@@ -1,42 +1,23 @@
-/*body styling*/
-body{
-    background-image: url("teentitanslogo.jpg");
-    background-image: no-repeat; 
-    background-attachment: fixed; 
-    background-position: center; 
-
-}
-
 /*navbar styling*/
 a {
-    color: black; 
-    font-size: 2.3vw; 
+    font-family: 'Bebas Neue'; 
+}
+
+.nav-text {
+    font-size: 1.3vw; 
+    color: white; 
+}
+/*end of navbar styling*/
+
+
+/*body styling*/
+
+/*end of body styling*/
+
+/*robin page styling*/
+.robin-header {
+    font-size: 4vw;
     font-family: 'Bebas Neue';
-    text-decoration: none; 
-    
-
-}
-
-a:hover
-{
-    background-color: silver; 
-}
-
-
-
-
-nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    display: block;      
-    width: 100%;
-    background-color: white;
     text-align: center; 
-    
 }
 
-.home {
-    text-align: left;
-    position: fixed; 
-}

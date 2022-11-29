@@ -1,11 +1,13 @@
 /*footer text*/
+/* (May 8th, 2022) footer needs work*/
 .footer-text{
     color: white; 
     margin-left: 43%;
-    margin-bottom: 1%;
 }
 
-.footer-text2{
-    color: white; 
-    margin-left: 35%;
+
+/*bracelets page styling*/
+.card-move{
+    margin-top: 23%;
 }
+/*end of bracelets styling*/

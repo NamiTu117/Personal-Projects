@@ -1,0 +1,50 @@
+/*HEADER STYLING*/
+.index-header{
+    font-size: 2vw;
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+    margin-top: 0.1%
+}
+
+.header {
+    display: block; 
+    padding: 0; 
+    border: 0;
+}
+
+.header-style{
+    background-color: white;
+}
+
+.header-move{
+    position: sticky;
+}
+/*END OF HEADER STYLING*/
+
+
+/*NAVBAR STYLING*/
+.nav-color{
+    background-color: navy;
+}
+.nav-link {
+    color: white; 
+    text-align: left;
+    margin-top: 15%; 
+}
+.nav-display{
+    height: 100px; 
+}
+/*END OF NAVBAR STYLING*/
+
+
+/*BODY STYLING*/
+body{
+    background-color: lightslategray;
+}
+
+/*image styling and reshaping*/
+
+
+/*end of image styling/reshaping*/
+
+/*END OF BODY STYLING*/

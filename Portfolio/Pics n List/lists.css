@@ -1,0 +1,45 @@
+/*LIST STYLING*/
+body{
+    background-color: goldenrod;
+}
+
+.container{
+    text-align: center;
+    margin-top: 5.55%;
+}
+
+.list-style{
+    display: inline-block;
+    text-align: left;
+}
+
+li{
+    padding: 6px;
+    list-style-type: none;
+    display: block; 
+    width: 200px; 
+}
+
+li a{
+    display: block; 
+    background-color: lightgrey;
+    padding: 10%;
+    color: black;
+    text-decoration: none; 
+    border-radius: 15px;
+    font-family:fantasy;
+    font-size: 1.9vw;
+
+}
+
+li a:hover{
+    background-color: white; 
+    transform: scale(1.1); /*makes the list tabs pop out*/
+}
+
+/*fits on smaller screens*/
+@media screen and (max-width:800px){
+    li, li a, li a:hover {
+        width: 100%;
+    }
+}
