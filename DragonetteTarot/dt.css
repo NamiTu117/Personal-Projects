@@ -1,9 +1,9 @@
 .index-body{
-    background-image: url("rosas.jpg");
+    background-image: url("newrosepic.jpeg");
     background-repeat: none; 
-    background-position-x: 45%;
-    background-position-y: 10%;
-    background-size: 1300px;
+    background-position-y: 15%;
+    background-position-x: 28%;;
+    
 }
 
 /*navbar styling*/
@@ -21,7 +21,7 @@
 .title-text {
     color: white; 
     text-align: center;
-    margin-top: 13.2%;
+    margin-top: 25%;
     font-size: 2.3vw; 
     font-family: 'Times New Roman', Times, serif;
 }
@@ -142,14 +142,14 @@
 
 /*style for service and spellwork pages*/
 
-.service-body, .spellwork-body {
+.service-body{
     background-color: black ; 
     background-image: url(muchasrosas.jpg);
     background-size: 2100px;
 }
 
 
-.service-title, .spellwork-title {
+.service-title {
     color: white; 
     text-align: center;
     margin-top: 0; 
@@ -159,7 +159,7 @@
 
 
 
-.service-back, .spellwork-back {
+.service-back{
     color: white; 
     font-size: 1.5vw; 
     font-family: 'Times New Roman', Times, serif;
@@ -173,7 +173,7 @@
   text-decoration: none;
 }
 
-.service-bottom, .spellwork-bottom{
+.service-bottom{
     display: flex;  
     justify-content: center;
     margin-top: 100%;
