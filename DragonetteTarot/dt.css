@@ -1,9 +1,16 @@
+/*INDEX PAGE STYLING*/
 .index-body{
     background-image: url("newrosepic.jpeg");
     background-repeat: none; 
+<<<<<<< Updated upstream
     background-position-y: 15%;
     background-position-x: 28%;;
     
+=======
+    background-position-x: 45%;
+    background-position-y: 10%;
+    background-size: 1350px;
+>>>>>>> Stashed changes
 }
 
 /*navbar styling*/
@@ -140,6 +147,8 @@
 /*end of fadein navbar*/
 
 
+
+
 /*style for service and spellwork pages*/
 
 .service-body{
@@ -155,27 +164,41 @@
     margin-top: 0; 
     font-size: 1.7vw; 
     font-family: 'Times New Roman', Times, serif;
+<<<<<<< Updated upstream
 }
 
 
 
 .service-back{
+=======
+  }
+  
+  
+  
+  .service-back, .spellwork-back {
+>>>>>>> Stashed changes
     color: white; 
     font-size: 1.5vw; 
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
-}
-
-.service-footer{
-  color: white; 
-  font-size: 1vw; 
+  }
+  
+  .service-footer{
+    color: white; 
+    font-size: 1vw; 
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-decoration: none;
 }
 
+<<<<<<< Updated upstream
 .service-bottom{
     display: flex;  
+=======
+.service-bottom, .spellwork-bottom{
+  display: flex;  
+>>>>>>> Stashed changes
     justify-content: center;
     margin-top: 100%;
-}
-
+  }
+  
+  
