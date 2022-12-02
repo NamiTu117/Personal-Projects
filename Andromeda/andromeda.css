@@ -1,50 +1,42 @@
-/*HEADER STYLING*/
-.index-header{
-    font-size: 2vw;
-    text-align: center;
-    font-family: 'Heebo', sans-serif;
-    margin-top: 0.1%
-}
 
-.header {
-    display: block; 
-    padding: 0; 
-    border: 0;
-}
-
-.header-style{
-    background-color: white;
-}
-
-.header-move{
-    position: sticky;
-}
-/*END OF HEADER STYLING*/
-
-
-/*NAVBAR STYLING*/
-.nav-color{
-    background-color: navy;
-}
-.nav-link {
-    color: white; 
-    text-align: left;
-    margin-top: 15%; 
-}
-.nav-display{
-    height: 100px; 
-}
-/*END OF NAVBAR STYLING*/
-
-
-/*BODY STYLING*/
 body{
-    background-color: lightslategray;
+    margin: 0px; 
 }
 
-/*image styling and reshaping*/
+.nav{
+    display: block;
+    display: flex; 
+    justify-content: space-evenly;
+    background-color: rgb(7, 30, 100);
+    padding: 19px;
+    
+}
 
+a{
+    color: white; 
+    text-decoration: none; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: italic;
+}
 
-/*end of image styling/reshaping*/
+.header-container{
+    margin: 0px;
+    margin-left: 0; 
+    margin-right: 0; 
+    padding: 50px;    
+    background: rgb(224, 232, 233);
+}
 
-/*END OF BODY STYLING*/
+.header-text{
+    font-size: 4vw; 
+    color: black;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.h-text{
+    text-align: center; 
+    font-size: 1vw; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
