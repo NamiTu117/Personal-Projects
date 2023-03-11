@@ -1,23 +1,29 @@
-/*navbar styling*/
-a {
+/*INDEX PAGE STYLING*/
+body{
+    margin: 0; 
     font-family: 'Bebas Neue'; 
+    font-size: 25px; 
+    background-image:url(pics/titans.jpg);
+    background-position: center;
+    background-position-y: 15%;
+    background-repeat: no-repeat;
+    background-color: black;
+    
 }
 
-.nav-text {
-    font-size: 1.3vw; 
+.navbar{
+    display: inline-block;
+    width: 100%; 
+}
+
+a{
+    text-align: center;
     color: white; 
+    text-decoration: none; 
+    padding: 7px 10px; 
 }
-/*end of navbar styling*/
 
-
-/*body styling*/
-
-/*end of body styling*/
-
-/*robin page styling*/
-.robin-header {
-    font-size: 4vw;
-    font-family: 'Bebas Neue';
-    text-align: center; 
+*{
+    box-sizing: border-box;
 }
 

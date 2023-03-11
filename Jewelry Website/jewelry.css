@@ -7,7 +7,16 @@
 
 
 /*bracelets page styling*/
-.card-move{
-    margin-top: 23%;
+
+.brace-container{
+    display: flex; 
+    justify-content: center;
+    margin-top: 5%;
 }
-/*end of bracelets styling*/
+
+
+.brace-pic{
+    width: 500px;
+    height: 500px; 
+}
+/* bracelets styling*/
