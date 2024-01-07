@@ -1,0 +1,42 @@
+body{
+    margin: 0px; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold; 
+}
+
+/*TOP SECTION*/
+.header{
+    margin-top: 7%; 
+    text-align: center;
+}
+
+.head-title{
+    font-size: 3.5vw; 
+}
+
+.nav-container{
+    text-align: center;
+    width: 100%;
+    display: block;
+    background-color: rgb(5, 5, 71);;
+    padding: 15px;
+}
+
+a{
+    padding: 4.5%;
+    text-decoration: none; 
+    color: white;
+
+}
+/*END OF TOP SECTION*/
+
+
+
+
+/*FOOTER*/
+.foot{
+    position: fixed; 
+    bottom: 0; 
+    text-align: center; 
+}
+
